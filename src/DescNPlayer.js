@@ -13,7 +13,7 @@ class DescNPlayer extends React.Component {
                 <Row>
                     <Col xs={12} md={4}>
                         <p>
-                        Zombie Thread is a podcast centered on technology. Each episode will dive into a different facet of technology to explore the lesser known histories and impacts that it has on society. From ADC to Zero days come with us to learn why things are the way they are and what that means for us. 
+                        Zombie Thread is a podcast centered on technology. Each episode will dive into a different facet of technology to explore the lesser known histories and impacts that it has on society. From ADC to Zero days, come with us to learn why things are the way they are and what that means for us. 
                         </p>
                     </Col>
                     <Col xs={12} md={8}>
