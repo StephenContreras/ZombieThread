@@ -17,7 +17,7 @@ class DescNPlayer extends React.Component {
                         </p>
                     </Col>
                     <Col xs={12} md={8}>
-                        {/* <iframe src="https://open.spotify.com/embed-podcast/show/5VWGqqsPRhQkCwFuLPOGBs" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> */}
+                        <iframe frameBorder="0" height="200" scrolling="no" src="https://embed.radiopublic.com/e?if=eae0a417-a1f9-4106-b077-49f2ffe9ad79" width="100%"></iframe>
                     </Col>
                 </Row>
             </Container>
