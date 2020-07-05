@@ -17,7 +17,7 @@ class DescNPlayer extends React.Component {
                         </p>
                     </Col>
                     <Col xs={12} md={8}>
-                    <iframe src="https://castbox.fm/app/castbox/player/id3074702?v=8.22.11&autoplay=0" frameBorder="0" width="100%" height="500"></iframe>
+                    <iframe title="CastBox Player" src="https://castbox.fm/app/castbox/player/id3074702?v=8.22.11&autoplay=0" frameBorder="0" width="100%" height="500"></iframe>
                     </Col>
                 </Row>
             </Container>
