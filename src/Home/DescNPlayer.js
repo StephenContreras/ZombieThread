@@ -9,7 +9,7 @@ class DescNPlayer extends React.Component {
     
     render(){
         return (
-            <Container>
+            <Container className="dnpContainer">
                 <Row>
                     <Col xs={12} md={4}>
                         <p>
