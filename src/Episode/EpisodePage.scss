@@ -1,23 +1,20 @@
-@import "../App.scss";
 
 
 .episode-jumbo {
-  background-color: #DDDDDD;
+  background-color: #DDDDDD !important;
   color: #000000;
   margin: 2em;
   overflow: hidden;
 }
 
 .episode-jumbo h2 {
-  text-align: right;
-  font-family: 'Amatic SC', sans-serif;
-  font-size: 3em;
+  text-align: center;
 }
 
 .episode-jumbo .imgContainer{
   margin: -4rem -2rem 0 -2rem;
   max-height: 15em;
-  background-color: $body-bg;
+  background-color: #243856;
   overflow: hidden;
   display: flex;
   justify-content: center;
