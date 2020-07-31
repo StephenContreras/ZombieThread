@@ -1,6 +1,5 @@
 import React from 'react';
 import '../App.scss';
-import Header from './Header'
 import DescNPlayer from './DescNPlayer'
 
 
